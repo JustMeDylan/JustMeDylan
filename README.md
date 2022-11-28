@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JustMeDylan
-- 👀 I’m interested in people using cards on me
-- 🌱 I’m currently learning nothing I'm a machine
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @IhateGithub
+- 👀 I’m interested in killing Github's creator
+- 🌱 I’m currently learning nothing from Github You can't learn fertilizer from here
+- 💞️ I’m looking to collaborate on killing Githubs creator
 - 📫 How to reach me come to me
--cool
+-Kill Github
 
 <!---
 JustMeDylan/JustMeDylan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
